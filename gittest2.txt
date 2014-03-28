@@ -1,0 +1,4 @@
+this is a file created for git
+git is good
+
+this is new things
